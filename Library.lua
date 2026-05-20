@@ -1,5 +1,5 @@
 -- Made by samet
--- Example at bottom (there is no example nigga)
+-- Leaked by the Guy who bought the Ui himself
 
 if getgenv().Library then
     getgenv().Library:Unload()
